@@ -1,2 +1,4 @@
-# my-demo-app
-Testing GitHub Actions
+# Test Project
+
+This is a simple test repository.
+Hello from GitHub!
